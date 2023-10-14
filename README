@@ -10,6 +10,7 @@ In order to build st you need the Xlib header files.
 
 - [alpha](https://st.suckless.org/patches/alpha/) - For transparency.
 - [xresources](https://st.suckless.org/patches/xresources/) - To use xresources configs.
+- [blinking-cursor](https://st.suckless.org/patches/blinking_cursor/) - To enable blinking cursor.
 
 ## Installation
 
